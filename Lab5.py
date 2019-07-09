@@ -1,7 +1,4 @@
-##Martin Hynes
-##16390836
 
-##Task 1
 import time
 import sys
 ##setting recursion limit for testing large numbers of n later
